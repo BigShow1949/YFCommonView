@@ -1,0 +1,6 @@
+framework module YFCommonView {
+  umbrella header "YFCommonView-umbrella.h"
+
+  export *
+  module * { export * }
+}

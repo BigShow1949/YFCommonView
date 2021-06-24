@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - YFCommonView (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - YFCommonView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  YFCommonView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  YFCommonView: 4415d6aba769137198ef9a627283f9e089206321
+
+PODFILE CHECKSUM: 3532676f2d06eb39fecda66e3ac78e30cd567738
+
+COCOAPODS: 1.10.1
